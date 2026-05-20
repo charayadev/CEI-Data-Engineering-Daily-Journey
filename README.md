@@ -102,7 +102,7 @@ This repository documents my daily learning journey during the **Celebal Excelle
 Mastered sequence data structures in Python. Lists are flexible and mutable; tuples are fixed and immutable — each has its own use case in data engineering workflows.
 
 #### 📁 Code
-[View Day 2 Code](./Day2/)
+[View Day 2 Code](./Day_2_practice/)
 
 ---
 
@@ -138,9 +138,6 @@ Mastered sequence data structures in Python. Lists are flexible and mutable; tup
 
 #### 🎓 Key Takeaway
 Gained a solid understanding of Python fundamentals — variables, data types, operators, and control flow are the building blocks for every program going forward.
-
-#### 📁 Code
-[View Day 1 Code](./Day1/)
 
 ---
 
